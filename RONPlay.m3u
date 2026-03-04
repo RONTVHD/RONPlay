@@ -1,52 +1,108 @@
-﻿#EXTM3U
-#EXTINF:0 group-title="General" tvg-id="SRF 1.ch" tvg-name="SRF 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/switzerland/srf-1-ch.png" ,SRF 1 HD
-http://line.vueott.com:80/play/live.php?mac=00:1A:79:61:E7:03&stream=188227&extension=ts&play_token=p7wqNCdLGP
-#EXTINF:0 group-title="General" tvg-id="TF1.ch" tvg-name="TF1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/hd/tf1-hd-fr.png" ,TF1 HD
-http://176.65.146.240:7001/play/a086/index.m3u8
-#EXTINF:0 group-title="General" tvg-id="Nova.cz" tvg-name="Nova HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/czech-republic/nova-cz.png" ,Nova HD
-http://88.212.15.19/live/nova_avc_25p/playlist.m3u8
-#EXTINF:0 group-title="General" tvg-id="MTV3.fi" tvg-name="MTV3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/finland/mtv3-fi.png" ,MTV3 HD
-http://88.86.133.164:9981/stream/channelid/590688323?profile=matroska
-#EXTINF:0 group-title="General" tvg-id="Hero.fi" tvg-name="Hero HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/finland/hero-fi.png" ,Hero HD
-http://88.86.133.164:9981/stream/channelid/452263074?profile=pass
-#EXTINF:0 group-title="General" tvg-id="M6.ch" tvg-name="M6 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/hd/m6-hd-fr.png" ,M6 HD
-http://176.65.146.240:7001/play/a081/index.m3u8
-#EXTINF:0 group-title="Movies/Series" tvg-id="Prime (HD).hu" tvg-name="Prime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/prime-hu.png" ,Prime
-http://line.vueott.com:80/play/live.php?mac=00:1A:79:61:E7:03&stream=74215&extension=ts&play_token=X5s2o7hVIT
-#EXTINF:0 group-title="Documentary/Lifestyles" tvg-id="Spektrum Home (HD).hu" tvg-name="Spektrum Home HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/spektrum-home-hu.png" ,Spektrum Home HD
-http://line.vueott.com:80/play/live.php?mac=00:1A:79:61:E7:03&stream=1741169&extension=ts&play_token=40b9loTRre
-#EXTINF:0 group-title="Movies/Series" tvg-id="Izaura TV (HD).hu" tvg-name="Izaura TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/izaura-tv-hu.png" ,Izaura TV
-http://line.vueott.com:80/play/live.php?mac=00:1A:79:61:E7:03&stream=74232&extension=ts&play_token=cGvEiuzPU8
-#EXTINF:0 group-title="Music" tvg-id="Music.Dummy.us" tvg-name="Music Box Classic" tvg-logo="https://musicboxclassic.com/music_box_classic_logo.png" ,Music Box Classic
-https://dash2.antik.sk/live/mb_classic/index.m3u8
-#EXTINF:0 group-title="General" tvg-id="TMC.ch" tvg-name="TMC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tmc-fr.png" ,TMC HD
-http://176.65.146.240:7001/play/a088/index.m3u8
-#EXTINF:0 group-title="General" tvg-id="TFX.ch" tvg-name="TFX HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tfx-fr.png" ,TFX HD
-http://176.65.146.240:7001/play/a089/index.m3u8
-#EXTINF:0 group-title="Childrens" tvg-id="Kolyok Klub.hu" tvg-name="Kölyökklub HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/K%C3%B6ly%C3%B6kklub_II.svg/1200px-K%C3%B6ly%C3%B6kklub_II.svg.png" ,Kölyökklub HD
-http://46.149.191.217:9001/play/a02i
-#EXTINF:0 group-title="Sports" tvg-id="CANAL+ Sport.ch" tvg-name="Canal+ Sport HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-sport-fr.png" ,Canal+ Sport HD
-https://tvh.fkp.fr/stream/channelid/500104617?profile=pass
-#EXTINF:0 group-title="Documentary/Lifestyles" tvg-id="Ushuaia TV.ch" tvg-name="Ushuaïa TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/ushuaia-tv-fr.png" ,Ushuaïa TV HD
-https://tvh.fkp.fr/stream/channelid/55133446?profile=pass
-#EXTINF:0 group-title="Movies/Series" tvg-id="TV2 Comedy.hu" tvg-name="TV2 Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/tv2-comedy-hu.png" ,TV2 Comedy
-http://line.vueott.com:80/play/live.php?mac=00:1A:79:61:E7:03&stream=1741188&extension=ts&play_token=dRDoJ0AH5r
-#EXTINF:0 group-title="Movies/Series" tvg-id="CANAL+.ch" tvg-name="Canal+ HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-fr.png" ,Canal+ HD
-https://tvh.fkp.fr/stream/channelid/829070420?profile=pass
-#EXTINF:0 group-title="General" tvg-id="TV5 Monde Europe.ro" tvg-name="TV5Monde Europe HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tv5-monde-fr.png" ,TV5Monde Europe HD
-https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
-#EXTINF:0 group-title="Childrens" tvg-id="Tiji.ch" tvg-name="Tiji HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tiji-fr.png" ,Tiji HD
-https://tvh.fkp.fr/stream/channelid/901919785?profile=pass
-#EXTINF:0 group-title="News" tvg-id="CNBC.fi" tvg-name="CNBC Europe" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cnbc-us.png" ,CNBC Europe
-https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcuk-samsunggb/playlist.m3u8
-#EXTINF:0 group-title="Other" tvg-id="O2 Info 1.cz" tvg-name="RONPlay TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Philips_PM5544.svg/330px-Philips_PM5544.svg.png" ,RONPlay TEST
-https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
-#EXTINF:0 group-title="Sports" tvg-id="Oneplay Sport 1.cz" tvg-name="Oneplay Sport 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/czech-republic/oneplay-sport-1-cz.png" ,Oneplay Sport 1 HD
-http://line.vueott.com:80/play/live.php?mac=00:1A:79:61:E7:03&stream=1982236&extension=ts&play_token=JGXjVbXRYJ
-#EXTINF:0 group-title="Sports" tvg-id="Oneplay Sport 2.cz" tvg-name="Oneplay Sport 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/czech-republic/oneplay-sport-2-cz.png" ,Oneplay Sport 2 HD
-http://line.vueott.com:80/play/live.php?mac=00:1A:79:61:E7:03&stream=1982238&extension=ts&play_token=a6E0CkueU1
-#EXTINF:0 group-title="Sports" tvg-id="Oneplay Sport 3.cz" tvg-name="Oneplay Sport 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/czech-republic/oneplay-sport-3-cz.png" ,Oneplay Sport 3 HD
-http://line.vueott.com:80/play/live.php?mac=00:1A:79:61:E7:03&stream=1982239&extension=ts&play_token=afv8kUPEZL
-#EXTINF:0 group-title="Sports" tvg-id="Oneplay Sport 4.cz" tvg-name="Oneplay Sport 4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/czech-republic/oneplay-sport-4-cz.png" ,Oneplay Sport 4 HD
-http://line.vueott.com:80/play/live.php?mac=00:1A:79:61:E7:03&stream=1982240&extension=ts&play_token=X6PLuBBBWg
-
+#EXTM3U
+#EXTINF:-1 tvg-id="RTL.L�tzebuerg.lu" tvg-name="RTL Letzebuerg HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/luxembourg/rtl-letzebuerg-lu.png" group-title="Entertainment",RTL Letzebuerg HD
+https://stream.rtl.lu/data/live/tele/channel1/1080p.m3u8
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tf1-fr.png" group-title="Entertainment",TF1 HD
+http://173.229.4.239:5004/auto/v1
+#EXTINF:-1 tvg-id="RTL.Zwee.lu" tvg-name="RTL Zwee HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/luxembourg/rtl-zwee-lu.png" group-title="Entertainment",RTL Zwee HD
+https://stream.rtl.lu/data/live/tele/channel2/1080p.m3u8
+#EXTINF:-1 tvg-id="Sky.Uno.it" tvg-name="Sky Uno HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-uno-it.png" group-title="Entertainment",Sky Uno HD
+http://vpn.onair8k.xyz:80/play/live.php?mac=00:1A:79:B3:92:AD&stream=691311&extension=ts&play_token=jGHXB8mLRB
+#EXTINF:-1 tvg-id="Prime.hu" tvg-name="Prime HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/prime-hu.png" group-title="Entertainment",Prime HD
+http://88.212.15.19/live/prime/index.m3u8
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/m6-fr.png" group-title="Entertainment",M6 HD
+http://173.229.4.239:5004/auto/v6
+#EXTINF:-1 tvg-id="Izaura.TV.hu" tvg-name="Izaura TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/izaura-tv-hu.png" group-title="Entertainment",Izaura TV HD
+http://88.212.15.19/live/izaura/index.m3u8
+#EXTINF:-1 tvg-id="TV2.Comedy.hu" tvg-name="TV2 Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/tv2-comedy-hu.png" group-title="Entertainment",TV2 Comedy
+http://88.212.15.19/live/tv2_comedy/index.m3u8
+#EXTINF:-1 tvg-id="Mozi+.hu" tvg-name="Mozi+ HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/mozi-plus-hu.png" group-title="Movies",Mozi+ HD
+http://88.212.15.19/live/mozi_plusz/index.m3u8
+#EXTINF:-1 tvg-id="Sky.Cinema.Uno.it" tvg-name="Sky Cinema Uno HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-uno-hz-it.png" group-title="Movies",Sky Cinema Uno HD
+http://vpn.onair8k.xyz:80/play/live.php?mac=00:1A:79:B3:92:AD&stream=692077&extension=ts&play_token=uMQnqiow30
+#EXTINF:-1 tvg-id="Sky.Cinema.Uno.+24.it" tvg-name="Sky Cinema Uno +24 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-uno-plus24-hz-it.png" group-title="Movies",Sky Cinema Uno +24 HD
+http://vpn.onair8k.xyz:80/play/live.php?mac=00:1A:79:B3:92:AD&stream=692079&extension=ts&play_token=osXSDZzldJ
+#EXTINF:-1 tvg-id="Sky.Cinema.Due.it" tvg-name="Sky Cinema Stories HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Sky_Cinema_Stories_-_Logo_2025.svg/1920px-Sky_Cinema_Stories_-_Logo_2025.svg.png" group-title="Movies",Sky Cinema Stories HD
+http://vpn.onair8k.xyz:80/play/live.php?mac=00:1A:79:B3:92:AD&stream=692091&extension=ts&play_token=fcPKpbIDGP
+#EXTINF:-1 tvg-id="Sky.Cinema.Family.it" tvg-name="Sky Cinema Family HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-family-hz-it.png" group-title="Movies",Sky Cinema Family HD
+http://vpn.onair8k.xyz:80/play/live.php?mac=00:1A:79:B3:92:AD&stream=692088&extension=ts&play_token=499iRrOkT1
+#EXTINF:-1 tvg-id="Sky.Cinema.Romance.it" tvg-name="Sky Cinema Romance HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-romance-hz-it.png" group-title="Movies",Sky Cinema Romance HD
+http://vpn.onair8k.xyz:80/play/live.php?mac=00:1A:79:B3:92:AD&stream=692085&extension=ts&play_token=kpTeBhAL9u
+#EXTINF:-1 tvg-id="Sky.Cinema.Suspense.it" tvg-name="Sky Cinema Suspense HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-suspense-hz-it.png" group-title="Movies",Sky Cinema Suspense HD
+http://vpn.onair8k.xyz:80/play/live.php?mac=00:1A:79:B3:92:AD&stream=692082&extension=ts&play_token=hfqgt3mNth
+#EXTINF:-1 tvg-id="Sky.Cinema.Action.it" tvg-name="Sky Cinema Action HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-action-hz-it.png" group-title="Movies",Sky Cinema Action HD
+http://vpn.onair8k.xyz:80/play/live.php?mac=00:1A:79:B3:92:AD&stream=692105&extension=ts&play_token=jS4aTpl71P
+#EXTINF:-1 tvg-id="Sky.Cinema.Drama.it" tvg-name="Sky Cinema Drama HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-drama-hz-it.png" group-title="Movies",Sky Cinema Drama HD
+http://vpn.onair8k.xyz:80/play/live.php?mac=00:1A:79:B3:92:AD&stream=692096&extension=ts&play_token=2ep1wsBfyw
+#EXTINF:-1 tvg-id="Sky.Cinema.Comedy.it" tvg-name="Sky Cinema Comedy HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-comedy-hz-it.png" group-title="Movies",Sky Cinema Comedy HD
+http://vpn.onair8k.xyz:80/play/live.php?mac=00:1A:79:B3:92:AD&stream=692099&extension=ts&play_token=Xvhpq5tj4c
+#EXTINF:-1 tvg-id="https://epgshare01.online/epgshare01/epg_ripper_IT1.txt#:~:text=Sky.Cinema.Collection.it" tvg-name="Sky Cinema Collection HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-collection-hz-it.png" group-title="Movies",Sky Cinema Collection HD
+http://vpn.onair8k.xyz:80/play/live.php?mac=00:1A:79:B3:92:AD&stream=692102&extension=ts&play_token=1FApjA9wXJ
+#EXTINF:-1 tvg-id="Moziverzum.hu" tvg-name="Moziverzum HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/moziverzum-hu.png" group-title="Movies",Moziverzum HD
+http://88.212.15.19/live/moziverzum/index.m3u8
+#EXTINF:-1 tvg-id="Sky.Arte.it" tvg-name="Sky Arte HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-arte-it.png" group-title="Documentaries & Lifestyle",Sky Arte HD
+http://vpn.onair8k.xyz:80/play/live.php?mac=00:1A:79:B3:92:AD&stream=691582&extension=ts&play_token=5RgL1fip8x
+#EXTINF:-1 tvg-id="Chasse.et.P�che.fr" tvg-name="Chasse et Peche HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/chasse-et-peche-fr.png" group-title="Documentaries & Lifestyle",Chasse et Peche HD
+http://vpn.onair8k.xyz:80/play/live.php?mac=00:1A:79:B3:92:AD&stream=506521&extension=ts&play_token=XIvSxBcMQl
+#EXTINF:-1 tvg-id="Ushua�a.TV.fr" tvg-name="Ushuaia TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/ushuaia-tv-fr.png" group-title="Documentaries & Lifestyle",Ushuaia TV HD
+http://vpn.onair8k.xyz:80/play/live.php?mac=00:1A:79:B3:92:AD&stream=506527&extension=ts&play_token=zxVIbNW3Sz
+#EXTINF:-1 tvg-id="Sky.Nature.it" tvg-name="Sky Nature HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-nature-it.png" group-title="Documentaries & Lifestyle",Sky Nature HD
+http://vpn.onair8k.xyz:80/play/live.php?mac=00:1A:79:B3:92:AD&stream=691583&extension=ts&play_token=vTO3UefF5U
+#EXTINF:-1 tvg-id="Trek.fr" tvg-name="Trek HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/trek-fr.png" group-title="Documentaries & Lifestyle",Trek HD
+http://vpn.onair8k.xyz:80/play/live.php?mac=00:1A:79:B3:92:AD&stream=667909&extension=ts&play_token=IYyIQH4wij
+#EXTINF:-1 tvg-id="Histoire.fr" tvg-name="Histoire TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/histoire-tv-fr.png" group-title="Documentaries & Lifestyle",Histoire TV HD
+http://vpn.onair8k.xyz:80/play/live.php?mac=00:1A:79:B3:92:AD&stream=506526&extension=ts&play_token=KJPbN6VjKJ
+#EXTINF:-1 tvg-id="Tiji.fr" tvg-name="Tiji HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tiji-fr.png" group-title="Kids",Tiji HD
+http://vpn.onair8k.xyz:80/play/live.php?mac=00:1A:79:B3:92:AD&stream=507305&extension=ts&play_token=v5pXXPvKQi
+#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="Mangas HD" tvg-logo="https://www.mangas.fr/upload/media/logo-orange-1-62cc14908a3ce.png" group-title="Kids",Mangas HD
+http://vpn.onair8k.xyz:80/play/live.php?mac=00:1A:79:B3:92:AD&stream=506577&extension=ts&play_token=JgwQuENSgm
+#EXTINF:-1 group-title="Kids" tvg-id="Nicktoons.hu" tvg-name="Nicktoons" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/nick-toons-rs.png" ,Nicktoons
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key 
+https://budapest-cache-1.antik.sk/stream/hisi_nicktoons_hun/playlist_cbcs.mpd
+#EXTINF:-1 tvg-id="Classica.HD.it" tvg-name="Sky Classica HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-classica-it.png" group-title="Music",Sky Classica HD
+http://vpn.onair8k.xyz:80/play/live.php?mac=00:1A:79:B3:92:AD&stream=691300&extension=ts&play_token=R8U5cm0O4j
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Music Box Sexy HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/music-box-sexy-pl.png" group-title="Music",Music Box Sexy HD
+http://88.212.15.19/live/mb_sexy/index.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Music Box Dance HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/music-box-dance-pl.png" group-title="Music",Music Box Dance HD
+http://88.212.15.19/live/mb_dance/index.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Music Box Hits HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/music-box-hits-pl.png" group-title="Music",Music Box Hits HD
+http://88.212.15.19/live/mb_hits/index.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Music Box Classic HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/music-box-classic-pl.png" group-title="Music",Music Box Classic HD
+http://88.212.15.19/live/mb_classic/index.m3u8
+#EXTINF:-1 tvg-id="Sky.Sport.24.it" tvg-name="Sky Sport 24 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-24-it.png" group-title="Sports",Sky Sport 24 HD
+http://vpn.onair8k.xyz:80/play/live.php?mac=00:1A:79:B3:92:AD&stream=691530&extension=ts&play_token=BOm0p88ny8
+#EXTINF:-1 tvg-id="Sky.Sport.Uno.it" tvg-name="Sky Sport Uno HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-uno-it.png" group-title="Sports",Sky Sport Uno HD
+http://vpn.onair8k.xyz:80/play/live.php?mac=00:1A:79:B3:92:AD&stream=691532&extension=ts&play_token=bbqNzp3s4N
+#EXTINF:-1 tvg-id="Sky.Sport.Golf.it" tvg-name="Sky Sport Golf HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-golf-it.png" group-title="Sports",Sky Sport Golf HD
+http://vpn.onair8k.xyz:80/play/live.php?mac=00:1A:79:B3:92:AD&stream=691544&extension=ts&play_token=JHQlJxboaW
+#EXTINF:-1 tvg-id="Sky.Sport.Arena.it" tvg-name="Sky Sport Arena HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-arena-it.png" group-title="Sports",Sky Sport Arena HD
+http://vpn.onair8k.xyz:80/play/live.php?mac=00:1A:79:B3:92:AD&stream=691534&extension=ts&play_token=qZ7tQcIkh0
+#EXTINF:-1 tvg-id="Sky.Sport.NBA.it" tvg-name="Sky Sport Basket HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Sky_Sport_Basket_-_Logo_2026.svg/3840px-Sky_Sport_Basket_-_Logo_2026.svg.png" group-title="Sports",Sky Sport Basket HD
+http://vpn.onair8k.xyz:80/play/live.php?mac=00:1A:79:B3:92:AD&stream=691531&extension=ts&play_token=2ZIQqJYay7
+#EXTINF:-1 tvg-id="Sky.Sport.Tennis.it" tvg-name="Sky Sport Tennis HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-tennis-it.png" group-title="Sports",Sky Sport Tennis HD
+http://vpn.onair8k.xyz:80/play/live.php?mac=00:1A:79:B3:92:AD&stream=691535&extension=ts&play_token=1cs6pF24Ho
+#EXTINF:-1 tvg-id="Sky.Sport.Calcio.it" tvg-name="Sky Sport Calcio HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-calcio-it.png" group-title="Sports",Sky Sport Calcio HD
+http://vpn.onair8k.xyz:80/play/live.php?mac=00:1A:79:B3:92:AD&stream=691523&extension=ts&play_token=uuyTh5Sywj
+#EXTINF:-1 tvg-id="Sky.Sport.F1.it" tvg-name="Sky Sport F1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-f1-it.png" group-title="Sports",Sky Sport F1 HD
+http://vpn.onair8k.xyz:80/play/live.php?mac=00:1A:79:B3:92:AD&stream=691536&extension=ts&play_token=xs0Mfyh2V0
+#EXTINF:-1 tvg-id="Sky.Sport.MotoGP.it" tvg-name="Sky Sport MotoGP HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-motogp-it.png" group-title="Sports",Sky Sport MotoGP HD
+http://vpn.onair8k.xyz:80/play/live.php?mac=00:1A:79:B3:92:AD&stream=691537&extension=ts&play_token=1mhBMPw0jZ
+#EXTINF:-1 tvg-id="Euronews.hu" tvg-name="Euronews HD (Magyarul)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/euro-news-int.png" group-title="News",Euronews HD (Magyarul)
+https://budapest-cache-1.antik.sk/live/test_euronews_hu_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="France.24.fr" tvg-name="France 24 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/france-24-int.png" group-title="News",France 24 HD
+https://budapest-cache-1.antik.sk/live/test_france24_france/playlist.m3u8
+#EXTINF:-1 tvg-id="Sky.Sport..251.it" tvg-name="Sky Sport 251" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Pay-Per-View & Events",Sky Sport 251
+http://vpn.onair8k.xyz:80/play/live.php?mac=00:1A:79:B3:92:AD&stream=691258&extension=ts&play_token=vImuIgk11S
+#EXTINF:-1 tvg-id="Sky.Sport..252.it" tvg-name="Sky Sport 252" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Pay-Per-View & Events",Sky Sport 252
+http://vpn.onair8k.xyz:80/play/live.php?mac=00:1A:79:B3:92:AD&stream=691256&extension=ts&play_token=1FgIsB7qx3
+#EXTINF:-1 tvg-id="Sky.Sport..253.it" tvg-name="Sky Sport 253" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Pay-Per-View & Events",Sky Sport 253
+http://vpn.onair8k.xyz:80/play/live.php?mac=00:1A:79:B3:92:AD&stream=691254&extension=ts&play_token=2D0N3cqAVh
+#EXTINF:-1 tvg-id="Sky.Sport..254.it" tvg-name="Sky Sport 254" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Pay-Per-View & Events",Sky Sport 254
+http://vpn.onair8k.xyz:80/play/live.php?mac=00:1A:79:B3:92:AD&stream=691253&extension=ts&play_token=jbwYOfMWMA
+#EXTINF:-1 tvg-id="Sky.Sport..255.it" tvg-name="Sky Sport 255" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Pay-Per-View & Events",Sky Sport 255
+http://vpn.onair8k.xyz:80/play/live.php?mac=00:1A:79:B3:92:AD&stream=691252&extension=ts&play_token=MNRLZ1tLXw
+#EXTINF:-1 tvg-id="Sky.Sport..256.it" tvg-name="Sky Sport 256" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Pay-Per-View & Events",Sky Sport 256
+http://vpn.onair8k.xyz:80/play/live.php?mac=00:1A:79:B3:92:AD&stream=691251&extension=ts&play_token=FPleefgWxr
+#EXTINF:-1 tvg-id="Sky.Sport..257.it" tvg-name="Sky Sport 257" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Pay-Per-View & Events",Sky Sport 257
+http://vpn.onair8k.xyz:80/play/live.php?mac=00:1A:79:B3:92:AD&stream=691247&extension=ts&play_token=CIa90ljAdY
